@@ -1,6 +1,6 @@
 #and or not 
 # <; >; <=; >=; ==
-#0 = False. != 0 là True
+#0 là False. != 0 là True
 #ctrl + shift + L: phím tắt chọn nhiều từ giống nhau 
 #ctrl + D: phím tắt chọn nhiều từ giống nhau sau dòng được chọn
 #ctrl + /: chuyển một dòng thành comment
